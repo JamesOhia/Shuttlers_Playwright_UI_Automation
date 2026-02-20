@@ -54,6 +54,7 @@ class ShuttlerSimplePage {
     return this;
   }
 
+  //Testing push request
   /**
    * Book a trip
    * @param {string} tripId - Trip identifier

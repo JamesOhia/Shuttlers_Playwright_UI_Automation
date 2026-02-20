@@ -12,7 +12,7 @@ const route = {
   pickupExact: 'Festac Town, Lagos, Nigeria',
   destination: 'Eko',
   destinationExact: 'Eko Hotel Roundabout, Lagos, Nigeria',
-  date: '20',
+  date: '23',
   tripId: 'FST20006:00 AM'
 };
 
