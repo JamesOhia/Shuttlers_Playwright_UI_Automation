@@ -1,0 +1,23 @@
+{
+  "user": {
+    "email": "jamesswagz24@gmail.com",
+    "password": "TestPassword"
+  },
+  "route": {
+    "pickup": "festac",
+    "pickupExact": "Festac Town, Lagos, Nigeria",
+    "destination": "Eko",
+    "destinationExact": "Eko Hotel Roundabout, Lagos, Nigeria",
+    "date": "23",
+    "tripId": "FST20006:00 AM"
+  },
+  "hireVehicle": {
+    "packageName": "Shuttlers BlackExperience",
+    "vehicleType": "Coaster Bus - New Shape(2017",
+    "assignedVehicle": "Coaster Bus - New Shape27",
+    "pickupSearch": "Lekki",
+    "pickupExact": "Lekki Phase 1, Lekki, Nigeria",
+    "destinationSearch": "1st av",
+    "destinationExact": "Festac Town, 1st Avenue,"
+  }
+}
